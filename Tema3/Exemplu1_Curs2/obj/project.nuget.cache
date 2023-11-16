@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJ0zFRcAirkq3T2QhR/EuTAbJx3fmRnu72/lBRRxZQZPuGvS9Sk/35X+/Hbok1Cl2uwAOO9Fexb6c7QAqTWOQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rebec\\source\\repos\\TAS\\Tema3\\Exemplu1_Curs2\\Tema3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rebec\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\rebec\\.nuget\\packages\\moq\\4.20.69\\moq.4.20.69.nupkg.sha512",
+    "C:\\Users\\rebec\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

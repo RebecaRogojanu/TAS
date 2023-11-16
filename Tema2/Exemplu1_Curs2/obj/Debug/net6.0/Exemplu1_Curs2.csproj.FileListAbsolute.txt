@@ -1,0 +1,11 @@
+C:\Users\rebec\source\repos\Exemplu1_Curs2\Exemplu1_Curs2\bin\Debug\net6.0\Exemplu1_Curs2.deps.json
+C:\Users\rebec\source\repos\Exemplu1_Curs2\Exemplu1_Curs2\bin\Debug\net6.0\Exemplu1_Curs2.dll
+C:\Users\rebec\source\repos\Exemplu1_Curs2\Exemplu1_Curs2\bin\Debug\net6.0\Exemplu1_Curs2.pdb
+C:\Users\rebec\source\repos\Exemplu1_Curs2\Exemplu1_Curs2\obj\Debug\net6.0\Exemplu1_Curs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\source\repos\Exemplu1_Curs2\Exemplu1_Curs2\obj\Debug\net6.0\Exemplu1_Curs2.AssemblyInfoInputs.cache
+C:\Users\rebec\source\repos\Exemplu1_Curs2\Exemplu1_Curs2\obj\Debug\net6.0\Exemplu1_Curs2.AssemblyInfo.cs
+C:\Users\rebec\source\repos\Exemplu1_Curs2\Exemplu1_Curs2\obj\Debug\net6.0\Exemplu1_Curs2.csproj.CoreCompileInputs.cache
+C:\Users\rebec\source\repos\Exemplu1_Curs2\Exemplu1_Curs2\obj\Debug\net6.0\Exemplu1_Curs2.dll
+C:\Users\rebec\source\repos\Exemplu1_Curs2\Exemplu1_Curs2\obj\Debug\net6.0\refint\Exemplu1_Curs2.dll
+C:\Users\rebec\source\repos\Exemplu1_Curs2\Exemplu1_Curs2\obj\Debug\net6.0\Exemplu1_Curs2.pdb
+C:\Users\rebec\source\repos\Exemplu1_Curs2\Exemplu1_Curs2\obj\Debug\net6.0\ref\Exemplu1_Curs2.dll
