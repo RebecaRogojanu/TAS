@@ -1,0 +1,22 @@
+C:\Users\rebec\source\repos\Tema1\Exemplu1_Curs2\bin\Debug\net6.0\Tema1.deps.json
+C:\Users\rebec\source\repos\Tema1\Exemplu1_Curs2\bin\Debug\net6.0\Tema1.dll
+C:\Users\rebec\source\repos\Tema1\Exemplu1_Curs2\bin\Debug\net6.0\Tema1.pdb
+C:\Users\rebec\source\repos\Tema1\Exemplu1_Curs2\obj\Debug\net6.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\source\repos\Tema1\Exemplu1_Curs2\obj\Debug\net6.0\Tema1.AssemblyInfoInputs.cache
+C:\Users\rebec\source\repos\Tema1\Exemplu1_Curs2\obj\Debug\net6.0\Tema1.AssemblyInfo.cs
+C:\Users\rebec\source\repos\Tema1\Exemplu1_Curs2\obj\Debug\net6.0\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\rebec\source\repos\Tema1\Exemplu1_Curs2\obj\Debug\net6.0\Tema1.dll
+C:\Users\rebec\source\repos\Tema1\Exemplu1_Curs2\obj\Debug\net6.0\refint\Tema1.dll
+C:\Users\rebec\source\repos\Tema1\Exemplu1_Curs2\obj\Debug\net6.0\Tema1.pdb
+C:\Users\rebec\source\repos\Tema1\Exemplu1_Curs2\obj\Debug\net6.0\ref\Tema1.dll
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\Tema1.AssemblyInfoInputs.cache
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\Tema1.AssemblyInfo.cs
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\Tema1.dll
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\refint\Tema1.dll
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\Tema1.pdb
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\bin\Debug\net6.0\Tema1.deps.json
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\bin\Debug\net6.0\Tema1.dll
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\bin\Debug\net6.0\Tema1.pdb
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\ref\Tema1.dll

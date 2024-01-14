@@ -1,0 +1,23 @@
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\bin\Debug\net6.0\Proiect.deps.json
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\bin\Debug\net6.0\Proiect.dll
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\bin\Debug\net6.0\Proiect.pdb
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.AssemblyInfoInputs.cache
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.AssemblyInfo.cs
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.dll
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\refint\Proiect.dll
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.pdb
+C:\Users\rebec\source\repos\Tema1 - Copy\Exemplu1_Curs2\obj\Debug\net6.0\ref\Proiect.dll
+C:\Users\rebec\source\repos\Proiect\Exemplu1_Curs2\bin\Debug\net6.0\Proiect.deps.json
+C:\Users\rebec\source\repos\Proiect\Exemplu1_Curs2\bin\Debug\net6.0\Proiect.dll
+C:\Users\rebec\source\repos\Proiect\Exemplu1_Curs2\bin\Debug\net6.0\Proiect.pdb
+C:\Users\rebec\source\repos\Proiect\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\source\repos\Proiect\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.AssemblyInfoInputs.cache
+C:\Users\rebec\source\repos\Proiect\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.AssemblyInfo.cs
+C:\Users\rebec\source\repos\Proiect\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\rebec\source\repos\Proiect\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.dll
+C:\Users\rebec\source\repos\Proiect\Exemplu1_Curs2\obj\Debug\net6.0\refint\Proiect.dll
+C:\Users\rebec\source\repos\Proiect\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.pdb
+C:\Users\rebec\source\repos\Proiect\Exemplu1_Curs2\obj\Debug\net6.0\ref\Proiect.dll
+C:\Users\rebec\source\repos\Proiect\Exemplu1_Curs2\obj\Debug\net6.0\Proiect.csproj.AssemblyReference.cache
